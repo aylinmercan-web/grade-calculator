@@ -16,7 +16,7 @@ This project calculates the final grade based on midterm and final exam scores.
 - The result will be printed in the console
 
 
-## 📷 Example
+## 💡 Example
 Midterm: 90  
 Final: 90  
 Result: A
