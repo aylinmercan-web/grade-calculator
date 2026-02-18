@@ -23,4 +23,4 @@ Result: A
 
 ---
 
-👩‍💻 Created by Aylin Mercan
+ Created by Aylin Mercan
